@@ -1,3 +1,4 @@
+https://github.com/msabramo/bleach/archive/GH-121_make_attribute_order_deterministic.zip
 pytest
 pytest-capturelog
 pytest-cov
